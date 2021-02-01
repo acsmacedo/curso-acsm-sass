@@ -1,0 +1,27 @@
+{
+  "name": "curso-acsm-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node_modules/.bin/sass --watch --no-source-map curso/scss:curso/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acsmacedo/curso-acsm-sass.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Anderson Macedo",
+    "email": "andy.carlos.souza@hotmail.com",
+    "url": "https://acsmacedo.netlify.app/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acsmacedo/curso-acsm-sass/issues"
+  },
+  "homepage": "https://github.com/acsmacedo/curso-acsm-sass#readme",
+  "devDependencies": {
+    "sass": "^1.32.5"
+  }
+}
